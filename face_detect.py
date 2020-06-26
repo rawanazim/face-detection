@@ -1,5 +1,5 @@
 import cv2 as cv
-
+# press 'q' to quit
 # choose the right path of the classifier file
 faceCascade = cv.CascadeClassifier('/home/rawan/opencv/data/haarcascades/haarcascade_frontalface_default.xml')
 
